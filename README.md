@@ -3,4 +3,6 @@ Hello world! This is my first GitHub repository!
 
 I'm Fio, I'm on the path to redemption by doing what I am supposed to do, which I haven't for a while.
 Wish me luck :)
-\m/ TRY #3 to pull request and compare
+\m/ to pull request and compare
+
+lalalala I'm consolidating the pull request and merge functions
